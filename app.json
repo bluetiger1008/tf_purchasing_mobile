@@ -1,0 +1,35 @@
+{
+  "expo": {
+    "name": "tf_mobile",
+    "slug": "tf_mobile",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "owner": "turnerfox",
+    "icon": "./assets/tf_logo.png",
+    "userInterfaceStyle": "automatic",
+    "splash": {
+      "image": "./assets/tf_splash-screen.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#190fd4"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/tf_logo.png",
+        "backgroundColor": "#FFFFFF"
+      }
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "description": ""
+  }
+}
